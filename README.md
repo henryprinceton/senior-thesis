@@ -1,3 +1,3 @@
 # senior-thesis
 
-Materials related to Henry Herrington's senior thesis on PDF ballot security.
+Materials related to the undergraduate thesis of Henry D. Herrington, "Ballot Acrobatics: Altering Electronic Ballots using Internal PDF Scripting".
